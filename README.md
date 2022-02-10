@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Doug
+- 👀 I’m interested in Crypto developement 
+- 🌱 I’m currently learning Solidity, Javascript
+- 💞️ I’m looking to collaborate on the cryptospace
